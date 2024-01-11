@@ -1,5 +1,3 @@
-**Scenario: Implementation of a Three-Tier Application Pipeline on ECS**
-
 ### Objective:
 To establish a continuous integration and continuous deployment (CI/CD) pipeline for a three-tier application using Amazon Elastic Container Service (ECS) with Docker containers.
 
